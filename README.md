@@ -41,6 +41,6 @@ Para executar o código do projeto basta rodar o arquivo:
 ### Visualização
 Com o código rodando é possível acessar o [Link](https://cayenne.mydevices.com/shared/5f7e50879abe4a5bb3166cda/project/2cfe19ee-efe1-4035-9089-f0e02559217a) que levará à plataforma My Device Cayenne para visualizar a tela de automação.
 
-<p style="text-align:center"><br/><img src="Cayenne-MQTT-Python/img/cayenne.png" width="1019" height="439" alt="img cayenne"><br/><br/></p>
+<p style="text-align:center"><br/><img src="Cayenne-MQTT-Python/img/cayenne1.png" width="1019" height="439" alt="img cayenne"><br/><br/></p>
 
 **Uma tela semelhante a essa deve aparecer**
