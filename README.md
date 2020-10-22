@@ -10,6 +10,15 @@ cd micros-MQTT/Cayenne-MQTT-Python/
 sudo python3 setup.py install
 
 
+Python 2:
+::
+
+  git clone https://github.com/myDevicesIoT/Cayenne-MQTT-Python
+  cd Cayenne-MQTT-Python
+  python setup.py install
+
+
+
 OBS: sempre que for feita alguma alteração no arquivo "client.py" o comando "sudo python3 setup.py install" deve ser executado novamente
 
 Após isso basta apenas executar o arquivo "Projeto2.py".
