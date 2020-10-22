@@ -1,7 +1,13 @@
 Projeto II da disciplina de SISTEMAS MICROPROCESSADOS AVANÇADOS
 ***************************
 
+Requisitos
+============
+* `Python 3.4+ <https://www.python.org/downloads/>`_.
+* `Eclipse Paho MQTT Python client library <https://github.com/eclipse/paho.mqtt.python>`_. This is installed as part of the Cayenne library installation.
 
+Instalação
+------------
 Para executar o projeto é preciso clonar o repositório:
 ::
 
