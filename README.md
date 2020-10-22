@@ -4,7 +4,6 @@
 
 
 Para executar o projeto é preciso clonar o repositório:
-
 ::
 git clone https://github.com/carlosely/micros-MQTT/
 cd micros-MQTT/Cayenne-MQTT-Python/
