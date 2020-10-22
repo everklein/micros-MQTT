@@ -1,8 +1,8 @@
-Projeto II da disciplina de SISTEMAS MICROPROCESSADOS AVANÇADOS
-***************************
+# Projeto II da disciplina de SISTEMAS MICROPROCESSADOS AVANÇADOS
 
-Introdução
-============
+
+## Introdução
+
 bla bla bla
 
 Instruções para rodar o projeto
