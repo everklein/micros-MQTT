@@ -5,6 +5,9 @@ Introdução
 ============
 bla bla bla
 
+Instruções para rodar o projeto
+***************************
+
 Requisitos
 ============
 * `Python 3.4+ <https://www.python.org/downloads/>`_.
