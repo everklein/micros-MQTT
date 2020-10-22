@@ -5,12 +5,10 @@
 
 bla bla bla
 
-Instruções para rodar o projeto
-***************************
+## Instruções para rodar o projeto
 Passo a passo para rodar o código e visualizar os resultados obtidos com o projeto.
 
-Cabeamento
-============
+## Cabeamento
 Adicionar instruções de cabeamento e GPIO
 
 Requisitos
