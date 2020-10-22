@@ -10,12 +10,7 @@ cd micros-MQTT/Cayenne-MQTT-Python/
 sudo python3 setup.py install
 
 
-Python 2:
-::
 
-  git clone https://github.com/myDevicesIoT/Cayenne-MQTT-Python
-  cd Cayenne-MQTT-Python
-  python setup.py install
 
 
 
