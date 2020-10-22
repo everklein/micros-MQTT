@@ -1,6 +1,10 @@
 Projeto II da disciplina de SISTEMAS MICROPROCESSADOS AVANÇADOS
 ***************************
 
+Introdução
+============
+bla bla bla
+
 Requisitos
 ============
 * `Python 3.4+ <https://www.python.org/downloads/>`_.
@@ -27,4 +31,4 @@ Basta apenas executar o arquivo:
   
 Visualização
 ------------
-Com o código rodando é possível acessar o `link <https://cayenne.mydevices.com/shared/5f7e50879abe4a5bb3166cda/project/2cfe19ee-efe1-4035-9089-f0e02559217a>`_ que levará à plataforma My Device Cayenne para visualizar a tela de automação.
+Com o código rodando é possível acessar o `Link <https://cayenne.mydevices.com/shared/5f7e50879abe4a5bb3166cda/project/2cfe19ee-efe1-4035-9089-f0e02559217a>`_ que levará à plataforma My Device Cayenne para visualizar a tela de automação.
