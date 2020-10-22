@@ -45,4 +45,4 @@ Visualização
 Com o código rodando é possível acessar o `Link <https://cayenne.mydevices.com/shared/5f7e50879abe4a5bb3166cda/project/2cfe19ee-efe1-4035-9089-f0e02559217a>`_ que levará à plataforma My Device Cayenne para visualizar a tela de automação.
 
 
-
+![alt text](https://github.com/carlosely/micros-MQTT/Cayenne-MQTT-Python/img/cayenne.png)
