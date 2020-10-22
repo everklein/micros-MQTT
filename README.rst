@@ -23,11 +23,11 @@ E rodar a configuração:
   sudo python3 setup.py install
 
 
-**OBS:** sempre que for feita alguma alteração no arquivo "client.py" o comando "sudo python3 setup.py install" deve ser executado novamente
+**OBS:** sempre que for feita alguma alteração no arquivo "client.py" a configuração "sudo python3 setup.py install" deve ser executada novamente.
 
 Execução
 ------------
-Basta apenas executar o arquivo:
+Para executar o código do projeto basta rodar o arquivo:
 :: 
 
   Projeto2.py
