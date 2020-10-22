@@ -9,6 +9,10 @@ Instruções para rodar o projeto
 ***************************
 Passo a passo para rodar o código e visualizar os resultados obtidos com o projeto.
 
+Cabeamento
+============
+Adicionar instruções de cabeamento e GPIO
+
 Requisitos
 ============
 * `Python 3.4+ <https://www.python.org/downloads/>`_. Já vem pré instalado na versão completa do Raspberry Pi OS. 
