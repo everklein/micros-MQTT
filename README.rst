@@ -10,7 +10,7 @@ Instruções para rodar o projeto
 
 Requisitos
 ============
-* `Python 3.4+ <https://www.python.org/downloads/>`_. Já vem instalado na Raspberry PI 
+* `Python 3.4+ <https://www.python.org/downloads/>`_. Já vem pré instalado na versão completa do Raspberry Pi OS. 
 * `Eclipse Paho MQTT Python client library <https://github.com/eclipse/paho.mqtt.python>`_.
 
 Instalação
