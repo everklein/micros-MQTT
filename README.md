@@ -21,9 +21,10 @@ Requisitos
 Instalação
 ------------
 Para realizar a instalação do projeto é preciso clonar o repositório:
-::
-
-  git clone https://github.com/carlosely/micros-MQTT/
+```
+git clone https://github.com/carlosely/micros-MQTT/
+```
+  
   
 E rodar a configuração:
 ::
