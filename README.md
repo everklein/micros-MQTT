@@ -12,8 +12,8 @@ Passo a passo para rodar o código e visualizar os resultados obtidos com o proj
 Adicionar instruções de cabeamento e GPIO
 
 ### Requisitos
-* `Python 3.4+ <https://www.python.org/downloads/>`_. Já vem pré instalado na versão completa do Raspberry Pi OS. 
-* `Eclipse Paho MQTT Python client library <https://github.com/eclipse/paho.mqtt.python>`_.
++ [Python 3.4+](https://www.python.org/downloads/) Já vem pré instalado na versão completa do Raspberry Pi OS.
++ [Eclipse Paho MQTT Python client library](https://github.com/eclipse/paho.mqtt.python)
 
 Instalação
 ------------
