@@ -1,15 +1,13 @@
-# micros-MQTT
-
-## Projeto II da disciplina de SISTEMAS MICROPROCESSADOS AVANÇADOS
+Projeto II da disciplina de SISTEMAS MICROPROCESSADOS AVANÇADOS
+***************************
 
 
 Para executar o projeto é preciso clonar o repositório:
 ::
-git clone https://github.com/carlosely/micros-MQTT/
-cd micros-MQTT/Cayenne-MQTT-Python/
-sudo python3 setup.py install
 
-
+  git clone https://github.com/carlosely/micros-MQTT/
+  cd micros-MQTT/Cayenne-MQTT-Python/
+  sudo python3 setup.py install
 
 
 
