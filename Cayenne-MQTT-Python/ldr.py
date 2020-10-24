@@ -32,10 +32,10 @@ try:
         print("Ldr Value:")
         value = rc_time(ldr)
         print(value)
-        if ( value <= 10000 ):
+        if ( value > 10000 ):
                 print("Lights are ON")
                 GPIO.output(led, True)
-        if (value > 10000):
+        if (value <= 10000):
                 print("Lights are OFF")
                 GPIO.output(led, False)
 except KeyboardInterrupt:
